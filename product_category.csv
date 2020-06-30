@@ -1,0 +1,355 @@
+1052	Men's Clothing		4	MenFashion		t			
+1054	Computer & Office		1	livingroomcabinettv		t			
+10818	Shoe Accessories		3		t			10605	1209
+10835	Pregnancy & Maternity		10		t			10606	1210
+11008	Wedding Dresses		0		t			10611	1215
+11045	Lighting Accessories		10		t			10614	1218
+11148	Painting Supplies & Wall Treatments		6		t			10619	1223
+10605	Shoes								
+1161	Hoodies & Sweatshirts		1		t			1051	1201
+1175	Men's Sets		9		t			1052	1202
+1182	Mobile Phone Accessories		1		t			1053	1203
+10713	Computer Components		13		t			1054	1204
+10723	Home Electronic Accessories		4		t			10601	1205
+10744	Jewelry Sets & More		4		t			10602	1206
+10747	Bathroom Products		2		t			10603	1207
+10813	Luggage & Travel Bags		7		t			10604	1208
+1160	Socks & Hosiery							1051	
+1162	Accessories							1051	
+1163	Tops & Tees							1051	
+1164	Bodysuits							1051	
+1165	Sleep & Lounge							1051	
+1166	Hoodies & Sweatshirts							1052	
+1167	Pants							1052	
+1168	Underwear							1052	
+1169	Suits & Blazers							1052	
+1170	Socks							1052	
+1171	Tops & Tees							1052	
+1172	Shirts							1052	
+1173	Accessories							1052	
+1174	Sleep & Lounge							1052	
+1176	Jackets & Coats							1052	
+1177	Jeans							1052	
+1178	Sweaters							1052	
+1179	Casual Shorts							1052	
+1180	Board Shorts							1052	
+1181	Mobile Phones							1053	
+1183	Phone Bags & Cases							1053	
+1184	Mobile Phone Parts							1053	
+1185	Power Bank							1053	
+1186	Communication Equipments							1053	
+1187	Office Electronics							1054	
+10701	Tablet Accessories							1054	
+10702	Networking							1054	
+10703	Mini PC							1054	
+10704	Industrial Computer & Accessories							1054	
+10705	Laptops							1054	
+10706	Office Software							1054	
+10707	Tablets							1054	
+10708	Computer Peripherals							1054	
+10709	Memory Cards & SSD							1054	
+10710	Demo Board & Accessories							1054	
+10711	DIY Gaming PC							1054	
+10712	Laptop Accessories							1054	
+10714	External Storage							1054	
+10715	Cables & Connectors							1054	
+10716	Desktops & Servers							1054	
+10717	Computer Cleaners							1054	
+10718	Gaming Laptops							1054	
+10719	Camera & Photo							10601	
+10720	Smart Electronics							10601	
+10721	Video Games							10601	
+10722	VR/AR Devices							10601	
+10724	HIFI Devices							10601	
+10725	Portable Audio & Video							10601	
+10726	Accessories & Parts							10601	
+10727	Earphones & Headphones							10601	
+10728	Sports & Action Video Cameras							10601	
+10729	Speakers							10601	
+10730	Live Equipment							10601	
+10731	Home Audio & Video							10601	
+10732	Electronic Cigarettes							10601	
+10733	Wearable Devices							10601	
+10734	360° Video Cameras & Accessories							10601	
+10735	Robot							10601	
+10736	Power Source							10601	
+10737	Fine Jewelry							10602	
+10738	Rings							10601	
+10739	Beads & Jewelry Making							10602	
+10740	Necklaces & Pendants							10601	
+10741	Bracelets & Bangles							10602	
+10742	Wedding & Engagement Jewelry							10601	
+10743	Earrings							10602	
+10745	Kitchen,Dining & Bar							10603	
+10746	Arts,Crafts & Sewing							10603	
+10748	Garden Supplies							10603	
+10749	Home Decor							10603	
+10750	Festive & Party Supplies							10603	
+10801	Household Cleaning							10603	
+10802	Household Merchandises							10603	
+10803	Home Textile							10603	
+10804	Home Storage & Organization							10603	
+10805	Pet Products							10603	
+10806	Women's Bags							10604	
+10807	Wallets							10604	
+10808	Functional Bags							10604	
+10809	Men's Bags							10604	
+10810	Kids & Baby's Bags							10604	
+10811	Coin Purses & Holders							10604	
+10812	Backpacks							10604	
+10814	Bag Parts & Accessories							10604	
+10815	Women's Shoes							10605	
+10816	Men's Shoes							10605	
+10817	Men's Vulcanize Shoes							10605	
+10819	Women's Flats							10605	
+10820	Men's Casual Shoes							10605	
+10821	Women's Boots							10605	
+10822	Women's Pumps							10605	
+10823	Women's Vulcanize Shoes							10605	
+10824	Men's Boots							10605	
+10825	Girls' Baby Clothing							10606	
+10826	Boys' Clothing							10606	
+10827	Baby Care							10606	
+10828	Baby Bedding							10606	
+10829	Toilet Training							10606	
+10830	Baby Furniture							10606	
+10831	Boys' Baby Clothing							10606	
+10832	Baby Shoes							10606	
+10833	Activity & Gear							10606	
+10834	Feeding							10606	
+10836	Girls' Clothing							10606	
+10837	Children's Shoes							10606	
+10838	Safety Equipment							10606	
+10839	Matching Family Outfits							10606	
+10840	Baby Souvenirs							10606	
+10841	Sports Clothing							10607	
+10842	Fishing							10607	
+10843	Musical Instruments							10607	
+10844	Water Sports							10607	
+10845	Golf							10607	
+10846	Skiing & Snowboarding							10607	
+10847	Horse Racing							10607	
+10849	Sneakers							10607	
+10850	Camping & Hiking							10607	
+10901	Hunting							10607	
+10902	Team Sports							10607	
+10903	Running							10607	
+10904	Sports Accessories							10607	
+10905	Bowling							10607	
+10906	Sports Bags							10607	
+10907	Cycling							10607	
+10908	Swimming							10607	
+10909	Fitness & Body Building							10607	
+10910	Racquet Sports							10607	
+10911	Shooting							10607	
+10912	Roller Skates, Skateboards & Scooters							10607	
+10913	Entertainment							10607	
+10914	Nails Art & Tools							10608	
+10915	Skin Care							10608	
+10916	Sex Products							10608	
+10917	Bath & Shower							10608	
+10918	Sanitary Paper							10608	
+10919	Makeup							10608	
+10920	Hair Care & Styling							10608	
+10922	Fragrances & Deodorants							10608	
+10923	Tools & Accessories							10608	
+10924	Health Care							10608	
+10925	Shaving & Hair Removal							10608	
+10926	Tattoo & Body Art							10608	
+10927	Oral Hygiene							10608	
+10928	Men's Grooming							10608	
+10929	Men's Watches							10609	
+10930	Children's Watches							10609	
+10931	Women's Bracelet Watches							10609	
+10932	Women's Watches							10609	
+10933	Pocket & Fob Watches							10609	
+10934	Lover's Watches							10609	
+10936	Dolls & Stuffed Toys							10610	
+10937	Learning & Education							10610	
+10938	Model Building							10610	
+10939	Electronic Toys							10610	
+10940	Stress Relief Toy							10610	
+10942	Stuffed Animals & Plush							10610	
+10943	Pools & Water Fun							10610	
+10944	Remote Control Toys							10610	
+10945	Outdoor Fun & Sports							10610	
+10946	Diecasts & Toy Vehicles							10610	
+10947	Puzzles & Games							10610	
+10948	Building & Construction Toys							10610	
+10949	High Tech Toys							10610	
+10950	Popular Toys							10610	
+11001	Classic Toys							10610	
+11002	Action & Toy Figures							10610	
+11003	Baby & Toddler Toys							10610	
+11004	Novelty & Gag Toys							10610	
+11005	Kid's Party							10610	
+11006	Arts & Crafts, DIY toys							10610	
+11007	Pretend Play							10610	
+11009	Wedding Party Dress							10611	
+11010	Cocktail Dresses							10611	
+11011	Mother of the Bride Dresses							10611	
+11012	Evening Dresses							10611	
+11013	Wedding Accessories							10611	
+11014	Homecoming Dresses							10611	
+11015	Quinceanera Dresses							10611	
+11016	Prom Dresses							10611	
+11017	Celebrity-Inspired Dresses							10611	
+11018	Bridesmaid Dresses							10611	
+11019	Dresses under $80							10611	
+11021	Traditional & Cultural Wear							10612	
+11022	Exotic Apparel							10612	
+11023	Work Wear & Uniforms							10612	
+11024	Stage & Dance Wear							10612	
+11025	Car Lights							10613	
+11026	Interior Accessories							10613	
+11027	Exterior Accessories							10613	
+11028	Travel & Roadway Product							10613	
+10848	Other Sports & Entertainment		7		t			10607	1211
+10921	Beauty Essentials		7		t			10608	1212
+10935	Watch Accessories		6		t			10609	1213
+10941	Hobby & Collectibles		5		t			10610	1214
+11020	Costumes & Accessories		0		t			10612	1216
+11029	Auto Replacement Parts							10613	
+11030	Car Repair Tools							10613	
+11031	Car Wash & Maintenance							10613	
+11032	Car Electronics							10613	
+11034	ATV,RV,Boat & Other Vehicle							10613	
+11035	Lamps & Shades							10614	
+11036	LED Lighting							10614	
+11037	Portable Lighting							10614	
+11038	Book Lights							10614	
+11039	Holiday Lighting							10614	
+11040	Special Engineering Lighting							10614	
+11041	Ceiling Lights & Fans							10614	
+11042	Outdoor Lighting							10614	
+11043	Commercial Lighting							10614	
+11044	Professional Lighting							10614	
+11046	Vanity Lights							10614	
+11047	Light Bulbs							10614	
+11048	LED Lamps							10614	
+11049	Night Lights							10614	
+11050	Novelty Lighting							10614	
+11101	Under Cabinet Lights							10614	
+11102	Home Furniture							10615	
+11103	Outdoor Furniture							10615	
+11104	Bar Furniture							10615	
+11105	Furniture Parts							10615	
+11126	Books							10617	
+11107	Commercial Furniture							10615	
+11108	Furniture Accessories							10615	
+11109	Children Furniture							10615	
+11110	Café Furniture							10615	
+11111	Furniture Hardware							10615	
+11112	Active Components							10616	
+11113	Electronic Data Systems							10616	
+11114	Electronics Stocks							10616	
+11115	Passive Components							10616	
+11116	Electronic Signs							10616	
+11117	Optoelectronic Displays							10616	
+11119	Electronics Production Machinery							10616	
+11120	Other Electronic Components							10616	
+11121	Adhesives & Tapes							10617	
+11122	Cutting Supplies							10617	
+11123	Labels, Indexes & Stamps							10617	
+11124	Office Binding Supplies							10617	
+11125	Pens, Pencils & Writing Supplies							10617	
+11127	Desk Accessories & Organizer							10617	
+11128	Mail & Shipping Supplies							10617	
+11129	Painting Supplies							10617	
+11130	Presentation Boards							10617	
+11131	Calendars, Planners & Cards							10617	
+11132	Filing Products							10617	
+11133	Notebooks & Writing Pads							10617	
+11134	Paper							10617	
+11136	Kitchen Appliances							10618	
+11137	Major Appliances							10618	
+11138	Household Appliances							10618	
+11139	Commercial Appliances							10618	
+11140	Personal Care Appliances							10618	
+11142	Lights & Lighting							10619	
+11143	Kitchen Fixtures							10619	
+11144	Building Supplies							10619	
+11220	Abrasive Tools							10621	
+11221	Riveter Guns							10621	
+11222	Machine Tools & Accessories							10621	
+11223	Hand & Power Tool Accessories							10621	
+11224	Woodworking Machinery & Parts							10621	
+11225	Tool Sets							10621	
+11227	Lifting Tools & Accessories							10621	
+11228	Hand Tools							10621	
+11229	Welding & Soldering Supplies							10621	
+11230	Tool Organizers							10621	
+11231	Abrasives							10621	
+11232	Tool Parts							10621	
+11233	Human Hair Weaves							10622	
+11234	Salon Hair Supply Chain							10622	
+11235	Synthetic Extensions							10622	
+11236	Lace Wigs							10622	
+11237	Synthetic Wigs							10622	
+11238	Hair Pieces							10622	
+11239	Wedding							10622	
+11241	Hair Braids							10622	
+11242	Tools & Accessories							10622	
+1151	Dresses							1051	
+1152	Sweaters							1051	
+1153	Bottoms							1051	
+1154	Intimates							1051	
+1155	Suits & Sets							1051	
+1156	Blouses & Shirts							1051	
+1157	Jackets & Coats							1051	
+1158	Rompers							1051	
+1159	Jumpsuits							1051	
+11145	Family Intelligence System							10619	
+11146	Home Appliances							10619	
+11147	Hardware							10619	
+11149	Bathroom Fixtures							10619	
+11150	Electrical Equipments & Supplies							10619	
+11201	Plumbing							10619	
+11202	Video Surveillance							10620	
+10601	Consumer Electronics								
+10603	Home & Garden		2	food		t			
+11033	Motorcycle Accessories & Parts		8		t			10613	1217
+11106	Office Furniture		4		t			10615	1219
+11118	Electronic Accessories & Supplies		6		t			10616	1220
+11135	School & Educational Supplies		14		t			10617	1221
+11141	Home Appliance Parts		5		t			10618	1222
+11226	Construction Tools		6		t			10621	1225
+11240	Hair Extensions		7		t			10622	1226
+10607	Sports & Entertainment								
+10609	Watches								
+10610	Toys & Hobbies								
+10611	Weddings & Events								
+10612	Novelty & Special Use								
+10614	Lights & Lighting								
+10615	Furniture								
+10616	Electronic Components								
+10617	Office & School Supplies								
+10620	Security & Protection								
+10618	Home Appliances								
+10619	Home Improvement								
+10622	Hair Extensions & Wigs								
+10621	Tools								
+11203	Workplace Safety Supplies							10620	
+11204	Smart Card System							10620	
+11205	Emergency Kits							10620	
+11206	Lightning Protection							10620	
+11207	Security Alarm							10620	
+11208	Door Intercom							10620	
+11210	Roadway Safety							10620	
+11211	Transmission & Cables							10620	
+11212	Access Control							10620	
+11213	Self Defense Supplies							10620	
+11214	Fire Protection							10620	
+11215	Safes							10620	
+11216	Measurement & Analysis Instruments							10621	
+11217	Power Tools							10621	
+11218	Welding Equipment							10621	
+11219	Garden Tools							10621	
+10613	Automobiles & Motorcycles								
+1051	Women's Clothing		24	WomanFashion		t			
+1053	Telecommunications		5	mobile		t			
+10606	Mother & Kids		8	baby		t			
+10602	Jewelry & Accessories		23	--_		t			
+10604	Luggage & Bags		9	tickets		t			
+10608	Beauty & Health		7	health		t			
+11209	Building Automation		7		t			10620	1224
